@@ -2,7 +2,7 @@
 A SecurityKeyBoard for Android. Supporting three kinds of keyboard:
 Letter, Number, Symbol.
 
-[中文版](http://www.onlyloveyd.cn/article/32)
+[中文版](https://www.onlyloveyd.cn/archives/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%89%E5%85%A8%E9%94%AE%E7%9B%98-LazyKeyboard)
 
 ## Installation
 ### Gradle
